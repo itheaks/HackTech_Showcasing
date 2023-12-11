@@ -1,0 +1,5 @@
+I hope this message finds you well. This is Amit Kumar Singh, and I am submitting my project for the HackTech competition. You can find the complete code on my GitHub repository: https://github.com/itheaks/HackTech_Final.
+
+I've organized the code in a way that makes it easy to navigate. For additional clarity, there's a dedicated folder labeled "Just for Reference" where you can find an IPython notebook (ipynb file). Feel free to explore it to address any questions or concerns you may have.
+
+Thank you for considering my submission. I'm excited about the opportunity and look forward to your feedback.
